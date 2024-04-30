@@ -6,11 +6,8 @@ Ever since the emergence of the Internet, phishing, a fraudulent practice, has a
 
 **Data Collection**
 
-We acquired the data from Kaggle, a public data source. The dataset has 71,677 unique URLs with some of the required features. It is an imbalanced dataset, hence we balanced it with random sampling.
-
-Data source: https://www.kaggle.com/aman9d/phishing-data
-
-This base dataset is available in 'Main_dataset.csv' of this repository.
+For training and testing machine learning algorithms, we have used a huge dataset of 651,191 URLs, out of which 428103 benign or safe URLs, 96457 defacement URLs, 94111 phishing URLs, and 32520 malware URLs. 
+Dataset Link:https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset?resource=download
 
 **Feature Engineering**
 
